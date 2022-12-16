@@ -5,6 +5,8 @@ Software Design COMP.SE.110
 
 Pulled from GitLab
 
+MainWindow:
+![](https://i.imgur.com/R5cfp7z.png)
 ## Dependencies:
 - Qt-Creator
   - Qt 5.14 or above (Qt 6 seems to not work properly)
